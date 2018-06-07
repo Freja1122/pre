@@ -20,7 +20,7 @@ public class Main {
             int[] du = new int[101];
             int N = cin.nextInt();
             int M = cin.nextInt();
-            if (N==0){
+            if (N == 0) {
                 break;
             }
             for (int i = 0; i < N; i++) {
@@ -30,7 +30,7 @@ public class Main {
                 int a = cin.nextInt();
                 int b = cin.nextInt();
                 du[b]++;
-                arr[i].add(b);
+                arr[a].add(b);
             }
             for (int i = 0; i < N; i++) {
                 if (du[i] == 0) {
