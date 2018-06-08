@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FEB5EAF6F06F1E97CAE6FD994816C8A219F8C8E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FEB5EAF6F06F1E97CAE6FD994816C8A219F8C8E4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EAE1658B-AF9F-48DD-856F-E01C6D350F6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FEB5EAF6F06F1E97CAE6FD994816C8A219F8C8E4" : "javaoj\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Problem01456",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Problem00018\/Problem01456\/Problem01456.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sunniee\/pre.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FEB5EAF6F06F1E97CAE6FD994816C8A219F8C8E4"
+    }
+  ]
+}
