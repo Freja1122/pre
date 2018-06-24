@@ -111,7 +111,7 @@ public class BaseController {
         }
         int okNumber = request.getInteger("okNumber");
         if (okNumber!=0){
-            password.setOkNumber(Math.max(okNumber,password.getAllNumber()));
+            password.setOkNumber(Math.min(okNumber,password.getAllNumber()));
             passwordRepository.save(password);
         }
         res.put("result","ok");
